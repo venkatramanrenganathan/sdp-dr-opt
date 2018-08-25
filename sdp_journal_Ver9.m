@@ -2,7 +2,7 @@
 % right of an hyperpane and another to its left half.
 % Takes in two mean and variance data.
 % Output: Sum of Probabilities = (False Positive + False Negative)
-%
+% Date - 24 August 2018
 % problem data
 clear all; close all; clc;
 n = 2; % dimensions
